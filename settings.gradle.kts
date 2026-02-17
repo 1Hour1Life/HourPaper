@@ -14,3 +14,5 @@ rootProject.name = "hourpaper"
 
 include("hourpaper-api")
 include("hourpaper-server")
+
+include("test-plugin")

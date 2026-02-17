@@ -1,0 +1,6 @@
+name: TestPlugin
+version: 1.0.0-DEV
+description: The HourPaper test plugin.
+
+api-version: 1.21.11
+main: net.onehouronelife.hourpaper.testplugin.TestPlugin
